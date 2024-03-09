@@ -14,14 +14,14 @@ The Fitness Sensor App is a comprehensive health and fitness companion designed 
 
 ## Screenshots
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=10QaVB-NosgL0vuvr495I8cgZF8uL1riQ" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=10TqTeVmF8APmW0M-fsLMpeFZiVUh9Obb" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=10KAq1RMHj6nQf4dwRnu0gY_QViLM965u" width="200" />
-  <img src="https://drive.google.com/uc?export=view&id=10ZTahErkNkO1Q9K5jv49emx8huMADQ-Q" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=10JBprDhOaOG8_doEhmWy23nF2emAlVJt" width="200" />
 </p>
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=10TqTeVmF8APmW0M-fsLMpeFZiVUh9Obb" width="200" />
   <img src="https://drive.google.com/uc?export=view&id=10QZo39u92nONJU8K0DPRRtzasE-chqgu" width="200" />
-  <img src="https://drive.google.com/uc?export=view&id=10JBprDhOaOG8_doEhmWy23nF2emAlVJt" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=10ZTahErkNkO1Q9K5jv49emx8huMADQ-Q" width="200" />
+  <img src="https://drive.google.com/uc?export=view&id=10QaVB-NosgL0vuvr495I8cgZF8uL1riQ" width="200" />
 </p>
 
 
